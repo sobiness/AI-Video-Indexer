@@ -6,3 +6,9 @@ opencv-python
 pillow
 numpy
 requests
+google-cloud-speech
+openai
+pydub
+ffmpeg-python
+librosa
+soundfile
