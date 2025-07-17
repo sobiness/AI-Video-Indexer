@@ -1,0 +1,8 @@
+torch
+torchvision
+clip-by-openai
+yt-dlp
+opencv-python
+pillow
+numpy
+requests
